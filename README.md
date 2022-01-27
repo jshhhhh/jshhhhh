@@ -12,7 +12,8 @@
 
 <img alt="unity" src ="https://img.shields.io/badge/unity-fafafa.svg?&style=for-the-badge&logo=unity&logoColor=black"/> <img alt="c sharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
 
-<img alt="unity" src ="https://img.shields.io/badge/test-fafafa.svg?&style=for-the-badge&logo=facebook&logoColor=black"/> <img alt="c sharp" src ="https://img.shields.io/badge/csharp-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+<img alt="test1" src ="https://img.shields.io/badge/test1-fafafa.svg?&style=for-the-badge&logo=cplusplus&logoColor=black"/>
+<img alt="c test2" src ="https://img.shields.io/badge/test2-fafafa.svg?&style=for-the-badge&logo=python&logoColor=black"/>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)]()
 
